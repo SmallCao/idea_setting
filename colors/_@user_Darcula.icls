@@ -1,0 +1,13 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2022-03-07T10:40:17</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">2021.1.1.22</property>
+    <property name="modified">2022-03-07T10:41:27</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+</scheme>
