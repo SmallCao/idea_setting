@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pages must fill the whole ViewPager2" />
+      <item value="reverse" />
+      <item value="elevation" />
       <item value="Indicator" />
       <item value="transform" />
       <item value="Defines whether the measuring pass of layout should use the AutoMeasure mechanism of RecyclerView or if it should be done by the LayoutManager's implementation of onMeasure(RecyclerView.Recycler, RecyclerView.State, int, int). Deprecated Implementors of LayoutManager should define whether or not it uses AutoMeasure by overriding isAutoMeasureEnabled(). Params: enabled – True if layout measurement should be done by the RecyclerView, false if it should be done by this LayoutManager." />
@@ -27,8 +30,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="27" />
+        <entry key="ENGLISH" value="28" />
       </map>
     </option>
   </component>
