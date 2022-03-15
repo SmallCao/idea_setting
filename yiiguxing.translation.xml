@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If you wish to set tracking information for this branch you can do so with:" />
       <item value="smooth Scroll" />
       <item value="Called when the scroll state changes. Useful for discovering when the user begins dragging, when a fake drag is started, when the pager is automatically settling to the current page, or when it is fully stoppedidle. state can be one of ViewPager2.SCROLL_STATE_IDLE, ViewPager2.SCROLL_STATE_DRAGGING, ViewPager2.SCROLL_STATE_SETTLING." />
       <item value="This method will be invoked when a new page becomes selected. Animation is not necessarily complete. Params: position – Position index of the new selected page." />
@@ -34,8 +35,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="33" />
+        <entry key="ENGLISH" value="34" />
       </map>
     </option>
   </component>
