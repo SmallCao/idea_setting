@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fixup messages in flight if we crashed and send any pending" />
+      <item value="If all else fails, if the user does have lower than API 9 (lower than Gingerbread), has reset their phone or 'Secure.ANDROID_ID' returns 'null', then simply the ID returned will be solely based off their Android device information. This is where the collisions can happen. Thanks http:www.pocketmagic.net?p=1662! Try not to use DISPLAY, HOST or ID - these items could change. If there are collisions, there will be overlapping data" />
       <item value="draft" />
       <item value="If you wish to set tracking information for this branch you can do so with:" />
       <item value="smooth Scroll" />
@@ -36,8 +38,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="35" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="37" />
       </map>
     </option>
   </component>
