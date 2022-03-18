@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="OPSTR GET USAGE STATS" />
       <item value="权限" />
       <item value="permiss" />
       <item value="d As of Android O, background check restrictions make this class no longer generally useful. (It is generally not safe to start a service from the receipt of a broadcast, because you don't have any guarantees that your app is in the foreground at this point and thus allowed to do so.) Instead, developers should use android.app.job.JobScheduler to schedule a job, and this does not require that the app hold a wake lock while doing so (the system will take care of holding a wake lock for the job)." />
@@ -50,11 +51,11 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="ENGLISH" value="43" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647072403092" />
+    <option name="lastTrimTime" value="1647565444791" />
   </component>
 </application>
