@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Required to read existing SMS threads" />
+      <item value="Manifest.permission.READ SMS," />
+      <item value="Returns true if the redirecting was performed" />
+      <item value="Does the app have the minimum set of permissions required to operate." />
+      <item value="We do not use grantResults as some of the granted permissions might have been revoked while the permissions dialog box was being shown for the missing permissions." />
       <item value="足够" />
       <item value="is Internal" />
       <item value="OPSTR GET USAGE STATS" />
@@ -52,8 +57,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="48" />
+        <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
