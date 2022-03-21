@@ -1,0 +1,18 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="WKXNW20813009496" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-03-21T09:44:14.132776100Z" />
+        <name value="HUAWEI DVC-TN20" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
