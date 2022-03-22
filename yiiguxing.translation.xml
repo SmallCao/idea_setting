@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="True if the version of Android that we're running on is at least M (API level 23)." />
       <item value="Required to read existing SMS threads" />
       <item value="Manifest.permission.READ SMS," />
       <item value="Returns true if the redirecting was performed" />
@@ -57,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="49" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
