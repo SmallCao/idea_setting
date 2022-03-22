@@ -8,8 +8,19 @@
             <value value="WKXNW20813009496" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-22T07:33:22.100537200Z" />
         <name value="HUAWEI DVC-TN20" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="AF8Y6R1907004207" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-03-22T08:13:52.412261300Z" />
+        <name value="HONOR CHL-AL00" />
         <target value="Android 10.0" />
         <api value="29" />
       </PhysicalDevice>
