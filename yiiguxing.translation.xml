@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Elapsed Time" />
       <item value="True if the version of Android that we're running on is at least M (API level 23)." />
       <item value="Required to read existing SMS threads" />
       <item value="Manifest.permission.READ SMS," />
@@ -54,7 +55,6 @@
       <item value="Shows the message bubble for one conversation message. It is able to animate size changes by morphing when the message content changes size." />
       <item value="Measure Spec" />
       <item value="Conversation" />
-      <item value="Conversation Message Adapter" />
     </histories>
     <option name="languageScores">
       <map>
