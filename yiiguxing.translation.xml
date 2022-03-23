@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Servlet user to retrieve a static file." />
+      <item value="Defines methods that should be implemented by the server runner GUI (CLI, Swing, Android..)." />
+      <item value="Multipart" />
       <item value="Elapsed Time" />
       <item value="True if the version of Android that we're running on is at least M (API level 23)." />
       <item value="Required to read existing SMS threads" />
@@ -52,14 +55,11 @@
       <item value="on Failure" />
       <item value="This FrameLayout will take all available height (excluding media picker) but setting height to 0dp causes it not to shrink properly in KK, so a height of match_parent works equally well" />
       <item value="Attachments to send, compose message view, media picker" />
-      <item value="Shows the message bubble for one conversation message. It is able to animate size changes by morphing when the message content changes size." />
-      <item value="Measure Spec" />
-      <item value="Conversation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
