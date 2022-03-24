@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Latest text snippet for display in conversation list" />
+      <item value="snippet" />
+      <item value="snippet text" />
+      <item value="create Conversation In Transaction" />
       <item value="存在" />
       <item value="@param newCursor The new cursor to be used. @return Returns the previously set Cursor, or null if there wasa not one. If the given new Cursor is the same instance is the previously set Cursor, null is also returned." />
       <item value="Swap in a new Cursor, returning the old Cursor. Unlike {@link changeCursor(Cursor)}, the returned old Cursor is &lt;em&gt;not&lt;em&gt; closed." />
@@ -51,15 +55,11 @@
       <item value="transform" />
       <item value="Defines whether the measuring pass of layout should use the AutoMeasure mechanism of RecyclerView or if it should be done by the LayoutManager's implementation of onMeasure(RecyclerView.Recycler, RecyclerView.State, int, int). Deprecated Implementors of LayoutManager should define whether or not it uses AutoMeasure by overriding isAutoMeasureEnabled(). Params: enabled – True if layout measurement should be done by the RecyclerView, false if it should be done by this LayoutManager." />
       <item value="solid" />
-      <item value="unsigned" />
-      <item value="stroke" />
-      <item value="If sync is already running this will do nothing - but at end of each sync action there is a check for recent messages that should catch new changes." />
-      <item value="immediate Sync" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="65" />
+        <entry key="ENGLISH" value="66" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
