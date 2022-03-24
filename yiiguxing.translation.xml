@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="OP RECEIVE BACKGROUND RESPONSE" />
       <item value="Latest text snippet for display in conversation list" />
       <item value="snippet" />
       <item value="snippet text" />
@@ -54,12 +55,11 @@
       <item value="Indicator" />
       <item value="transform" />
       <item value="Defines whether the measuring pass of layout should use the AutoMeasure mechanism of RecyclerView or if it should be done by the LayoutManager's implementation of onMeasure(RecyclerView.Recycler, RecyclerView.State, int, int). Deprecated Implementors of LayoutManager should define whether or not it uses AutoMeasure by overriding isAutoMeasureEnabled(). Params: enabled – True if layout measurement should be done by the RecyclerView, false if it should be done by this LayoutManager." />
-      <item value="solid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="CHINESE" value="66" />
+        <entry key="ENGLISH" value="67" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
