@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="型号" />
       <item value="Start self participant refresh" />
       <item value="Responds to default SMS subscription selection changes from system Settings." />
       <item value="TYPE PER SUBSCRIPTION SETTINGS" />
@@ -54,11 +55,10 @@
       <item value="Version 28 (intended for Android Pie and below) is the last version of the legacy support library, so we recommend that you migrate to AndroidX libraries when using Android Q and moving forward. The IDE can help with this: Refactor &gt; Migrate to AndroidX..." />
       <item value="android:exported needs to be explicitly specified for element &lt;receivercom.bidostar.location.utils.PowerChangeBroadCastReceiver&gt;" />
       <item value="this is file operator tool ,but may not be apply for you" />
-      <item value="unmaintained" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
+        <entry key="CHINESE" value="83" />
         <entry key="ENGLISH" value="83" />
         <entry key="INDONESIAN" value="1" />
       </map>
