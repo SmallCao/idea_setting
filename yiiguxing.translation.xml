@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Start self participant refresh" />
+      <item value="Responds to default SMS subscription selection changes from system Settings." />
       <item value="TYPE PER SUBSCRIPTION SETTINGS" />
       <item value="TYPE GENERAL SETTINGS" />
       <item value="recipients" />
@@ -53,13 +55,11 @@
       <item value="android:exported needs to be explicitly specified for element &lt;receivercom.bidostar.location.utils.PowerChangeBroadCastReceiver&gt;" />
       <item value="this is file operator tool ,but may not be apply for you" />
       <item value="unmaintained" />
-      <item value="Fixup messages in flight if we crashed and send any pending" />
-      <item value="If all else fails, if the user does have lower than API 9 (lower than Gingerbread), has reset their phone or 'Secure.ANDROID_ID' returns 'null', then simply the ID returned will be solely based off their Android device information. This is where the collisions can happen. Thanks http:www.pocketmagic.net?p=1662! Try not to use DISPLAY, HOST or ID - these items could change. If there are collisions, there will be overlapping data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="83" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
