@@ -5,6 +5,13 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Transaction id for MMS notificaiton" />
+      <item value="Content location for MMS notificaiton" />
+      <item value="The subject for MMS message" />
+      <item value="The message priority for MMS message" />
+      <item value="When the message has been seen by a user in a notification" />
+      <item value="This is bugle's internal status for the message" />
+      <item value="conversation id that this message belongs t" />
       <item value="CURRENT SELF ID" />
       <item value="PARTICIPANTS QUERY CODE" />
       <item value="Cannot set selection or sort order with this query" />
@@ -48,18 +55,11 @@
       <item value="add Snippet Text And Preview To Content Values" />
       <item value="confluence" />
       <item value="set Wearable Group Options" />
-      <item value="Tests if this string starts with the specified prefix. Params: prefix – the prefix. Returns: true if the character sequence represented by the argument is a prefix of the character sequence represented by this string; false otherwise. Note also that true will be returned if the argument is an empty string or is equal to this String object as determined by the equals(Object) method. Since: 1. 0" />
-      <item value="Swipe" />
-      <item value="归档" />
-      <item value="get Additional Resource Providers" />
-      <item value="do First Run Checks" />
-      <item value="Servlet user to retrieve a static file." />
-      <item value="Defines methods that should be implemented by the server runner GUI (CLI, Swing, Android..)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="100" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="CHINESE" value="107" />
+        <entry key="ENGLISH" value="108" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
