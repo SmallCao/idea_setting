@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Object returned from onCreateLoader must not be null" />
+      <item value="Make sure the Cursor is initialized correctly before accessing data from it." />
       <item value="This Cursor should be freed up after use with close()" />
       <item value="Transaction id for MMS notificaiton" />
       <item value="Content location for MMS notificaiton" />
@@ -53,13 +55,11 @@
       <item value="存在" />
       <item value="@param newCursor The new cursor to be used. @return Returns the previously set Cursor, or null if there wasa not one. If the given new Cursor is the same instance is the previously set Cursor, null is also returned." />
       <item value="Swap in a new Cursor, returning the old Cursor. Unlike {@link changeCursor(Cursor)}, the returned old Cursor is &lt;em&gt;not&lt;em&gt; closed." />
-      <item value="add Snippet Text And Preview To Content Values" />
-      <item value="confluence" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="108" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="112" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
