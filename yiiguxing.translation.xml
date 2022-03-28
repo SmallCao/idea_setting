@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="This Cursor should be freed up after use with close()" />
       <item value="Transaction id for MMS notificaiton" />
       <item value="Content location for MMS notificaiton" />
       <item value="The subject for MMS message" />
@@ -54,12 +55,11 @@
       <item value="Swap in a new Cursor, returning the old Cursor. Unlike {@link changeCursor(Cursor)}, the returned old Cursor is &lt;em&gt;not&lt;em&gt; closed." />
       <item value="add Snippet Text And Preview To Content Values" />
       <item value="confluence" />
-      <item value="set Wearable Group Options" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="107" />
-        <entry key="ENGLISH" value="108" />
+        <entry key="CHINESE" value="108" />
+        <entry key="ENGLISH" value="109" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
