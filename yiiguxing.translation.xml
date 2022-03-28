@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="m Archived Mode" />
+      <item value="PROJECTION" />
       <item value="Retrieve all preferred activities, previously added with addPreferredActivity, that are currently registered with the system. Params: outFilters – A required list in which to place the filters of all of the preferred activities. outActivities – A required list in which to place the component names of all of the preferred activities. packageName – An optional package in which you would like to limit the list. If null, all activities will be returned; if non-null, only those activities in the given package are returned. Returns: Returns the total number of registered preferred activities (the number of distinct IntentFilter records, not the number of unique activity components) that were found." />
       <item value="BRAND" />
       <item value="MANUFACTURER" />
@@ -53,13 +55,11 @@
       <item value="is Internal" />
       <item value="OPSTR GET USAGE STATS" />
       <item value="权限" />
-      <item value="permiss" />
-      <item value="d As of Android O, background check restrictions make this class no longer generally useful. (It is generally not safe to start a service from the receipt of a broadcast, because you don't have any guarantees that your app is in the foreground at this point and thus allowed to do so.) Instead, developers should use android.app.job.JobScheduler to schedule a job, and this does not require that the app hold a wake lock while doing so (the system will take care of holding a wake lock for the job)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="86" />
+        <entry key="CHINESE" value="87" />
+        <entry key="ENGLISH" value="88" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
