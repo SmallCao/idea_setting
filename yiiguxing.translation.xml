@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="CURRENT SELF ID" />
       <item value="PARTICIPANTS QUERY CODE" />
       <item value="Cannot set selection or sort order with this query" />
       <item value="A trampoline class so that we can inherit from LoaderManager.LoaderCallbacks multiple times." />
@@ -54,12 +55,11 @@
       <item value="do First Run Checks" />
       <item value="Servlet user to retrieve a static file." />
       <item value="Defines methods that should be implemented by the server runner GUI (CLI, Swing, Android..)." />
-      <item value="Multipart" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="99" />
-        <entry key="ENGLISH" value="100" />
+        <entry key="CHINESE" value="100" />
+        <entry key="ENGLISH" value="101" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
