@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="BLOCKED PARTICIPANTS AVAILABLE LOADER" />
+      <item value="get Path Segments" />
       <item value="1st ORDER BY term does not match any column in the result set (code 1 SQLITE_ERROR):" />
       <item value="order by" />
       <item value="incomplete input (code 1 SQLITE_ERROR)" />
@@ -53,13 +55,11 @@
       <item value="True if the version of Android that we're running on is at least M (API level 23)." />
       <item value="Required to read existing SMS threads" />
       <item value="Manifest.permission.READ SMS," />
-      <item value="Returns true if the redirecting was performed" />
-      <item value="Does the app have the minimum set of permissions required to operate." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="CHINESE" value="94" />
+        <entry key="ENGLISH" value="95" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
