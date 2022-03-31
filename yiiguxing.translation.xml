@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="You need to use a Theme.AppCompat theme (or descendant) with this activity." />
       <item value="Affected Modules: app, pluginapp" />
       <item value="A problem occurred configuring root project 'PluginDemo1'." />
       <item value="Installed Build Tools revision 31.0.0 is corrupted. Remove and install again using the SDK Manager." />
@@ -54,12 +55,11 @@
       <item value="deliver Sms Messages" />
       <item value="OP RECEIVE BACKGROUND RESPONSE" />
       <item value="Latest text snippet for display in conversation list" />
-      <item value="snippet" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="116" />
-        <entry key="ENGLISH" value="117" />
+        <entry key="CHINESE" value="117" />
+        <entry key="ENGLISH" value="118" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
