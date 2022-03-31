@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="A problem occurred configuring root project 'PluginDemo1'." />
       <item value="Installed Build Tools revision 31.0.0 is corrupted. Remove and install again using the SDK Manager." />
       <item value="get Device Brand" />
       <item value="Message part table SQL" />
@@ -54,12 +55,11 @@
       <item value="Latest text snippet for display in conversation list" />
       <item value="snippet" />
       <item value="snippet text" />
-      <item value="create Conversation In Transaction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="114" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="CHINESE" value="115" />
+        <entry key="ENGLISH" value="116" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
