@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="尺寸" />
       <item value="{@deprecated View actually traverses the Context hierarchy looking for the relevant method, which is fragile (an intermediate ContextWrapper adding a same-named method would change behavior) and restricts bytecode optimizers such as R8. Instead, use View.setOnClickListener.}" />
       <item value="CONVERSATION LIST LOADER" />
       <item value="BLOCKED PARTICIPANTS AVAILABLE LOADER" />
@@ -54,11 +55,10 @@
       <item value="We want conversation and participant creation to be atomic" />
       <item value="Insert a new local conversation for this thread id" />
       <item value="Start with conversation hidden - sending a message or saving a draft will change that" />
-      <item value="deliver Sms Messages" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="120" />
+        <entry key="CHINESE" value="121" />
         <entry key="ENGLISH" value="121" />
         <entry key="INDONESIAN" value="1" />
       </map>
