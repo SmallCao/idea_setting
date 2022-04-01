@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="{@deprecated View actually traverses the Context hierarchy looking for the relevant method, which is fragile (an intermediate ContextWrapper adding a same-named method would change behavior) and restricts bytecode optimizers such as R8. Instead, use View.setOnClickListener.}" />
+      <item value="CONVERSATION LIST LOADER" />
+      <item value="BLOCKED PARTICIPANTS AVAILABLE LOADER" />
       <item value="You need to use a Theme.AppCompat theme (or descendant) with this activity." />
       <item value="Affected Modules: app, pluginapp" />
       <item value="A problem occurred configuring root project 'PluginDemo1'." />
@@ -26,7 +29,6 @@
       <item value="Cannot set selection or sort order with this query" />
       <item value="A trampoline class so that we can inherit from LoaderManager.LoaderCallbacks multiple times." />
       <item value="PARTICIPANTS TABLE" />
-      <item value="BLOCKED PARTICIPANTS AVAILABLE LOADER" />
       <item value="get Path Segments" />
       <item value="1st ORDER BY term does not match any column in the result set (code 1 SQLITE_ERROR):" />
       <item value="order by" />
@@ -53,13 +55,11 @@
       <item value="Insert a new local conversation for this thread id" />
       <item value="Start with conversation hidden - sending a message or saving a draft will change that" />
       <item value="deliver Sms Messages" />
-      <item value="OP RECEIVE BACKGROUND RESPONSE" />
-      <item value="Latest text snippet for display in conversation list" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="117" />
-        <entry key="ENGLISH" value="118" />
+        <entry key="CHINESE" value="120" />
+        <entry key="ENGLISH" value="121" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
