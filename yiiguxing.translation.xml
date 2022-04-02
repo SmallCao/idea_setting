@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="perform Click" />
+      <item value="Custom view `WebView` has setOnTouchListener called on it but does not override performClick" />
       <item value="set Layout Algorithm" />
       <item value="stats" />
       <item value="concurrent" />
@@ -53,18 +55,16 @@
       <item value="incomplete input (code 1 SQLITE_ERROR)" />
       <item value="CONVERSATION LIST VIEW PROJECTION" />
       <item value="1st ORDER BY term does not match any column in the result set (code 1 SQLITE_ERROR)" />
-      <item value="m Archived Mode" />
-      <item value="PROJECTION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="CHINESE" value="143" />
+        <entry key="ENGLISH" value="144" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648449550552" />
+    <option name="lastTrimTime" value="1648884115158" />
   </component>
 </application>
