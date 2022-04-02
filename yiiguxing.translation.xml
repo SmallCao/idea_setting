@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Sync requires READ_SMS permission" />
+      <item value="guide" />
+      <item value="Start an incremental sync when the application starts up (no back off as not yet sendingreceiving)." />
+      <item value="Start an incremental sync to pull messages since last sync (backed off a few seconds).." />
+      <item value="Start a full sync (backed off a few seconds to avoid pulling sendingreceiving messages)." />
+      <item value="Action used to sync messages from smsmms db to local database" />
       <item value="ViewHolder views must not be attached when created. Ensure that you are not passing 'true' to the attachToRoot parameter of LayoutInflater.inflate(..., boolean attachToRoot)" />
       <item value="Top-level build file where you can add configuration options common to all sub-projectsmodules." />
       <item value="all buildscript {} blocks must appear before any plugins {} blocks in the script" />
@@ -49,17 +55,11 @@
       <item value="型号" />
       <item value="Start self participant refresh" />
       <item value="Responds to default SMS subscription selection changes from system Settings." />
-      <item value="TYPE PER SUBSCRIPTION SETTINGS" />
-      <item value="TYPE GENERAL SETTINGS" />
-      <item value="recipients" />
-      <item value="Find the thread ID of the same set of recipients (in any order, without any additions). If one is found, return it. Otherwise, return a unique thread ID." />
-      <item value="Given the recipients list and subject of an unsaved message, return its thread ID. If the message starts a new thread, allocate a new thread ID. Otherwise, use the appropriate existing thread ID." />
-      <item value="getOrCreateThreadId. It's convenient for use with SMS messages." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="127" />
-        <entry key="ENGLISH" value="128" />
+        <entry key="CHINESE" value="135" />
+        <entry key="ENGLISH" value="136" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
