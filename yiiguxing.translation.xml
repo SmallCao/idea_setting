@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="DYNAMIC DB UPDATE NAME" />
       <item value="schedule Alarm" />
       <item value="acquiring" />
       <item value="Sync requires READ_SMS permission" />
@@ -54,12 +55,11 @@
       <item value="Retrieve all preferred activities, previously added with addPreferredActivity, that are currently registered with the system. Params: outFilters – A required list in which to place the filters of all of the preferred activities. outActivities – A required list in which to place the component names of all of the preferred activities. packageName – An optional package in which you would like to limit the list. If null, all activities will be returned; if non-null, only those activities in the given package are returned. Returns: Returns the total number of registered preferred activities (the number of distinct IntentFilter records, not the number of unique activity components) that were found." />
       <item value="BRAND" />
       <item value="MANUFACTURER" />
-      <item value="型号" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="137" />
-        <entry key="ENGLISH" value="138" />
+        <entry key="CHINESE" value="138" />
+        <entry key="ENGLISH" value="139" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
