@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="schedule Alarm" />
+      <item value="acquiring" />
       <item value="Sync requires READ_SMS permission" />
       <item value="guide" />
       <item value="Start an incremental sync when the application starts up (no back off as not yet sendingreceiving)." />
@@ -53,13 +55,11 @@
       <item value="BRAND" />
       <item value="MANUFACTURER" />
       <item value="型号" />
-      <item value="Start self participant refresh" />
-      <item value="Responds to default SMS subscription selection changes from system Settings." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="135" />
-        <entry key="ENGLISH" value="136" />
+        <entry key="CHINESE" value="137" />
+        <entry key="ENGLISH" value="138" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
