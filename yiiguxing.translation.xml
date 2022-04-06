@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Reason: Context.startForegroundService()" />
+      <item value="did not then call Service.startForeground(): ServiceRecord{1f5e850 u0 com.zyt.demo.push.LiveService}" />
+      <item value="start Foreground Service" />
+      <item value="carriers" />
       <item value="on Notification Message Clicked" />
       <item value="on Notification Message Arrived" />
       <item value="passthrough" />
@@ -51,15 +55,11 @@
       <item value="conversation id that this message belongs t" />
       <item value="CURRENT SELF ID" />
       <item value="PARTICIPANTS QUERY CODE" />
-      <item value="Cannot set selection or sort order with this query" />
-      <item value="A trampoline class so that we can inherit from LoaderManager.LoaderCallbacks multiple times." />
-      <item value="PARTICIPANTS TABLE" />
-      <item value="get Path Segments" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="148" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="CHINESE" value="152" />
+        <entry key="ENGLISH" value="153" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
