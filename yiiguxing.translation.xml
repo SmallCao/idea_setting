@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="on Notification Message Clicked" />
+      <item value="on Notification Message Arrived" />
+      <item value="passthrough" />
       <item value="the following 2 com.xiaomi.mipushdemo should be changed to your package name" />
       <item value="Channel is unrecoverably broken and will be disposed!" />
       <item value="perform Click" />
@@ -52,14 +55,11 @@
       <item value="A trampoline class so that we can inherit from LoaderManager.LoaderCallbacks multiple times." />
       <item value="PARTICIPANTS TABLE" />
       <item value="get Path Segments" />
-      <item value="1st ORDER BY term does not match any column in the result set (code 1 SQLITE_ERROR):" />
-      <item value="order by" />
-      <item value="incomplete input (code 1 SQLITE_ERROR)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="145" />
-        <entry key="ENGLISH" value="146" />
+        <entry key="CHINESE" value="148" />
+        <entry key="ENGLISH" value="149" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
