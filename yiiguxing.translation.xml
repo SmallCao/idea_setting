@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="equals Ignore Case" />
+      <item value="on Geolocation Permissions Show Prompt" />
+      <item value="java.lang.NullPointerException: Attempt to invoke virtual method 'boolean android.content.Intent.migrateExtraStreamToClipData()' on a null object reference" />
       <item value="Mock version of the WebView. Only non override public methods from the real WebView have been added in there. Methods that take an unknown class as parameter or as return object, have been removed for now. TODO: generate automatically." />
       <item value="Apns Xml Processor" />
       <item value="Support it by clicking the button on the upper right of this page." />
@@ -52,14 +55,11 @@
       <item value="Make sure the Cursor is initialized correctly before accessing data from it." />
       <item value="This Cursor should be freed up after use with close()" />
       <item value="Transaction id for MMS notificaiton" />
-      <item value="Content location for MMS notificaiton" />
-      <item value="The subject for MMS message" />
-      <item value="The message priority for MMS message" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="156" />
-        <entry key="ENGLISH" value="159" />
+        <entry key="CHINESE" value="159" />
+        <entry key="ENGLISH" value="162" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
