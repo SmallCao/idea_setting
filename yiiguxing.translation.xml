@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="ACTION HOVER MOVE" />
       <item value="Reason: Context.startForegroundService()" />
       <item value="did not then call Service.startForeground(): ServiceRecord{1f5e850 u0 com.zyt.demo.push.LiveService}" />
       <item value="start Foreground Service" />
@@ -54,12 +55,11 @@
       <item value="This is bugle's internal status for the message" />
       <item value="conversation id that this message belongs t" />
       <item value="CURRENT SELF ID" />
-      <item value="PARTICIPANTS QUERY CODE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="152" />
-        <entry key="ENGLISH" value="153" />
+        <entry key="CHINESE" value="153" />
+        <entry key="ENGLISH" value="154" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
