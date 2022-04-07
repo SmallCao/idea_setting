@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Making this volatile because on the unit tests, setInstance is called from a unit test thread, and then it's read on the UI thread." />
       <item value="If set the adapter will call requery() on the cursor whenever a content change notification is delivered. Implies {@link FLAG_REGISTER_CONTENT_OBSERVER}. @deprecated This option is discouraged, as it results in Cursor queries being performed on the application's UI thread and thus can cause poor responsiveness or even Application Not Responding errors. As an alternative, use {@link android.app.LoaderManager} with a {@link android.content.CursorLoader}." />
       <item value="FLAG AUTO REQUERY" />
       <item value="This field should be made private, so it is hidden from the SDK." />
@@ -54,12 +55,11 @@
       <item value="尺寸" />
       <item value="{@deprecated View actually traverses the Context hierarchy looking for the relevant method, which is fragile (an intermediate ContextWrapper adding a same-named method would change behavior) and restricts bytecode optimizers such as R8. Instead, use View.setOnClickListener.}" />
       <item value="CONVERSATION LIST LOADER" />
-      <item value="BLOCKED PARTICIPANTS AVAILABLE LOADER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="171" />
-        <entry key="ENGLISH" value="174" />
+        <entry key="CHINESE" value="172" />
+        <entry key="ENGLISH" value="175" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
