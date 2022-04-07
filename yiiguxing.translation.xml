@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="This could be null if we bind but the caller doesn't init the BindableData" />
       <item value="Making this volatile because on the unit tests, setInstance is called from a unit test thread, and then it's read on the UI thread." />
       <item value="If set the adapter will call requery() on the cursor whenever a content change notification is delivered. Implies {@link FLAG_REGISTER_CONTENT_OBSERVER}. @deprecated This option is discouraged, as it results in Cursor queries being performed on the application's UI thread and thus can cause poor responsiveness or even Application Not Responding errors. As an alternative, use {@link android.app.LoaderManager} with a {@link android.content.CursorLoader}." />
       <item value="FLAG AUTO REQUERY" />
@@ -54,17 +55,16 @@
       <item value="Returns the zero-based index for the given column name, or -1 if the column doesn't exist. If you expect the column to exist use getColumnIndexOrThrow(String) instead, which will make the error more clear." />
       <item value="尺寸" />
       <item value="{@deprecated View actually traverses the Context hierarchy looking for the relevant method, which is fragile (an intermediate ContextWrapper adding a same-named method would change behavior) and restricts bytecode optimizers such as R8. Instead, use View.setOnClickListener.}" />
-      <item value="CONVERSATION LIST LOADER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="172" />
-        <entry key="ENGLISH" value="175" />
+        <entry key="CHINESE" value="173" />
+        <entry key="ENGLISH" value="176" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648884115158" />
+    <option name="lastTrimTime" value="1649323139364" />
   </component>
 </application>
