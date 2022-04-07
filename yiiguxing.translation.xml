@@ -5,6 +5,13 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="m Data Valid" />
+      <item value="@param newCursor The new cursor to be used. @return Returns the previously set Cursor, or null if there wasa not one. If the given new Cursor is the same instance is the previously set Cursor, null is also returned." />
+      <item value="Swap in a new Cursor, returning the old Cursor. Unlike {@link changeCursor(Cursor)}, the returned old Cursor is &lt;em&gt;not&lt;em&gt; closed." />
+      <item value="Swap in a new Cursor, returning the old Cursor. Unlike {@link changeCursor(Cursor)}, the returned old Cursor is &lt;em&gt;not&lt;em&gt; closed. @param newCursor The new cursor to be used. @return Returns the previously set Cursor, or null if there wasa not one. If the given new Cursor is the same instance is the previously set Cursor, null is also returned." />
+      <item value="cursor Present" />
+      <item value="This field should be made private, so it is hidden from the SDK." />
+      <item value="get Is Incoming" />
       <item value="smooth Scroll" />
       <item value="equals Ignore Case" />
       <item value="on Geolocation Permissions Show Prompt" />
@@ -48,18 +55,11 @@
       <item value="BLOCKED PARTICIPANTS AVAILABLE LOADER" />
       <item value="You need to use a Theme.AppCompat theme (or descendant) with this activity." />
       <item value="Affected Modules: app, pluginapp" />
-      <item value="A problem occurred configuring root project 'PluginDemo1'." />
-      <item value="Installed Build Tools revision 31.0.0 is corrupted. Remove and install again using the SDK Manager." />
-      <item value="get Device Brand" />
-      <item value="Message part table SQL" />
-      <item value="Object returned from onCreateLoader must not be null" />
-      <item value="Make sure the Cursor is initialized correctly before accessing data from it." />
-      <item value="This Cursor should be freed up after use with close()" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="160" />
-        <entry key="ENGLISH" value="163" />
+        <entry key="CHINESE" value="167" />
+        <entry key="ENGLISH" value="170" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
