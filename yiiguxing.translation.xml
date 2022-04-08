@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="get Display Metrics" />
       <item value="minify Enabled" />
       <item value="Dex Shifting View" />
       <item value="use internal to parse the json as a tree to create View" />
@@ -54,12 +55,11 @@
       <item value="Start a full sync (backed off a few seconds to avoid pulling sendingreceiving messages)." />
       <item value="Action used to sync messages from smsmms db to local database" />
       <item value="ViewHolder views must not be attached when created. Ensure that you are not passing 'true' to the attachToRoot parameter of LayoutInflater.inflate(..., boolean attachToRoot)" />
-      <item value="Top-level build file where you can add configuration options common to all sub-projectsmodules." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
-        <entry key="ENGLISH" value="181" />
+        <entry key="CHINESE" value="179" />
+        <entry key="ENGLISH" value="182" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
