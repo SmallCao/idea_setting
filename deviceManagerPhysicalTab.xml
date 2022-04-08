@@ -5,10 +5,10 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="WKXNW20813009496" />
+            <value value="AF8Y6R1907004207" />
           </Key>
         </key>
-        <name value="HUAWEI DVC-TN20" />
+        <name value="HONOR CHL-AL00" />
         <target value="Android 10.0" />
         <api value="29" />
       </PhysicalDevice>
@@ -16,10 +16,10 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="AF8Y6R1907004207" />
+            <value value="WKXNW20813009496" />
           </Key>
         </key>
-        <name value="HONOR CHL-AL00" />
+        <name value="HUAWEI DVC-TN20" />
         <target value="Android 10.0" />
         <api value="29" />
       </PhysicalDevice>
