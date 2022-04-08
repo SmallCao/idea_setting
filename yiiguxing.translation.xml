@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Dex Shifting View" />
       <item value="use internal to parse the json as a tree to create View" />
       <item value="apply generic function in View" />
       <item value="possible property name that we handle" />
@@ -54,12 +55,11 @@
       <item value="ViewHolder views must not be attached when created. Ensure that you are not passing 'true' to the attachToRoot parameter of LayoutInflater.inflate(..., boolean attachToRoot)" />
       <item value="Top-level build file where you can add configuration options common to all sub-projectsmodules." />
       <item value="all buildscript {} blocks must appear before any plugins {} blocks in the script" />
-      <item value="only id(String) method calls allowed in plugins {} script block" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="176" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="CHINESE" value="177" />
+        <entry key="ENGLISH" value="180" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
