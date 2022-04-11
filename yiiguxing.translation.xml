@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="card Corner Radius" />
+      <item value="The specified child already has a parent. You must call removeView() on the child's parent first." />
       <item value="get Display Metrics" />
       <item value="minify Enabled" />
       <item value="Dex Shifting View" />
@@ -53,13 +55,11 @@
       <item value="Start an incremental sync when the application starts up (no back off as not yet sendingreceiving)." />
       <item value="Start an incremental sync to pull messages since last sync (backed off a few seconds).." />
       <item value="Start a full sync (backed off a few seconds to avoid pulling sendingreceiving messages)." />
-      <item value="Action used to sync messages from smsmms db to local database" />
-      <item value="ViewHolder views must not be attached when created. Ensure that you are not passing 'true' to the attachToRoot parameter of LayoutInflater.inflate(..., boolean attachToRoot)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="179" />
-        <entry key="ENGLISH" value="182" />
+        <entry key="CHINESE" value="181" />
+        <entry key="ENGLISH" value="184" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
