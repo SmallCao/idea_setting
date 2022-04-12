@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="artifact" />
       <item value="his might happen because a process has files open or has its working directory set in the target directory." />
       <item value="This is not main thread, and the caller should invoke Looper.prepare()" />
       <item value="Cleartext HTTP traffic to sms5gapi.zzx9.cn not permitted" />
@@ -54,12 +55,11 @@
       <item value="concurrent" />
       <item value="DYNAMIC DB UPDATE NAME" />
       <item value="schedule Alarm" />
-      <item value="acquiring" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="186" />
-        <entry key="ENGLISH" value="189" />
+        <entry key="CHINESE" value="187" />
+        <entry key="ENGLISH" value="190" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
