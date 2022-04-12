@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="actual" />
       <item value="流程" />
       <item value="get ViewHolder class and make reference for evert @link(DynamicViewId) to the actual view if target contains HashMap&lt;String, Integer&gt; will replaced with the idsMap" />
       <item value="Holder class that keep UI Component from the Dynamic View" />
@@ -54,12 +55,11 @@
       <item value="perform Click" />
       <item value="Custom view `WebView` has setOnTouchListener called on it but does not override performClick" />
       <item value="set Layout Algorithm" />
-      <item value="stats" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="190" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="CHINESE" value="191" />
+        <entry key="ENGLISH" value="193" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
