@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Holder class that keep UI Component from the Dynamic View" />
+      <item value="add Layout Parameters in just created view and set as the contentView of the activity" />
       <item value="Helper function to load file from assets" />
       <item value="only buildscript {} and other plugins {} script blocks are allowed before plugins {} blocks, no other statements are allowed" />
       <item value="Set main property to name of Groovy script class." />
@@ -15,7 +17,6 @@
       <item value="actual" />
       <item value="流程" />
       <item value="get ViewHolder class and make reference for evert @link(DynamicViewId) to the actual view if target contains HashMap&lt;String, Integer&gt; will replaced with the idsMap" />
-      <item value="Holder class that keep UI Component from the Dynamic View" />
       <item value="artifact" />
       <item value="his might happen because a process has files open or has its working directory set in the target directory." />
       <item value="This is not main thread, and the caller should invoke Looper.prepare()" />
@@ -54,12 +55,11 @@
       <item value="did not then call Service.startForeground(): ServiceRecord{1f5e850 u0 com.zyt.demo.push.LiveService}" />
       <item value="start Foreground Service" />
       <item value="carriers" />
-      <item value="on Notification Message Clicked" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="199" />
-        <entry key="ENGLISH" value="201" />
+        <entry key="CHINESE" value="201" />
+        <entry key="ENGLISH" value="203" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
