@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Groovy" />
       <item value="Holder class that keep UI Component from the Dynamic View" />
       <item value="add Layout Parameters in just created view and set as the contentView of the activity" />
       <item value="Helper function to load file from assets" />
@@ -54,12 +55,11 @@
       <item value="Reason: Context.startForegroundService()" />
       <item value="did not then call Service.startForeground(): ServiceRecord{1f5e850 u0 com.zyt.demo.push.LiveService}" />
       <item value="start Foreground Service" />
-      <item value="carriers" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="201" />
-        <entry key="ENGLISH" value="203" />
+        <entry key="CHINESE" value="202" />
+        <entry key="ENGLISH" value="204" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
