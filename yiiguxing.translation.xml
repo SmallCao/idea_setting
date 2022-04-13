@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="keep properties obj as a tag" />
+      <item value="Create the View Object. If not full package is available try to create a view from android.widget" />
       <item value="! [remote rejected] main (pre-receive hook declined)" />
       <item value="actual" />
       <item value="流程" />
@@ -53,18 +55,16 @@
       <item value="passthrough" />
       <item value="the following 2 com.xiaomi.mipushdemo should be changed to your package name" />
       <item value="Channel is unrecoverably broken and will be disposed!" />
-      <item value="perform Click" />
-      <item value="Custom view `WebView` has setOnTouchListener called on it but does not override performClick" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="192" />
-        <entry key="ENGLISH" value="194" />
+        <entry key="CHINESE" value="194" />
+        <entry key="ENGLISH" value="196" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649323139364" />
+    <option name="lastTrimTime" value="1649810923638" />
   </component>
 </application>
