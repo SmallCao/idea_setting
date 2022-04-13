@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="[HOTFIX][Report]Bind hotfix monitor service fail!" />
       <item value="{&quot;views&quot;:[{&quot;views&quot;:[],&quot;properties&quot;:[{&quot;value&quot;:&quot;\u 8 fd 9\u 662 f\u 4 e 00\u 4 e 2 a\u 6 d 4 b\u 8 bd 5 view&quot;,&quot;type&quot;:&quot;string&quot;,&quot;name&quot;:&quot;text&quot;},{&quot;value&quot;:&quot;bottom&quot;,&quot;type&quot;:&quot;string&quot;,&quot;name&quot;:&quot;layout gravity&quot;},{&quot;value&quot;:&quot;center vertical&quot;,&quot;type&quot;:&quot;string&quot;,&quot;name&quot;:&quot;gravity&quot;},{&quot;value&quot;:&quot;33666666&quot;,&quot;type&quot;:&quot;color&quot;,&quot;name&quot;:&quot;background&quot;},{&quot;value&quot;:&quot;30 dp&quot;,&quot;type&quot;:&quot;dimen&quot;,&quot;name&quot;:&quot;layout height&quot;},{&quot;value&quot;:&quot;match parent&quot;,&quot;type&quot;:&quot;dimen&quot;,&quot;name&quot;:&quot;layout width&quot;},{&quot;value&quot;:&quot;tv test&quot;,&quot;type&quot;:&quot;ref&quot;,&quot;name&quot;:&quot;id&quot;}],&quot;widget&quot;:&quot;Text View&quot;},{&quot;views&quot;:[],&quot;properties&quot;:[{&quot;value&quot;:&quot;@drawabletest&quot;,&quot;type&quot;:&quot;ref&quot;,&quot;name&quot;:&quot;src&quot;},{&quot;value&quot;:&quot;fit Center&quot;,&quot;type&quot;:&quot;string&quot;,&quot;name&quot;:&quot;scale Type&quot;},{&quot;value&quot;:&quot;200 dp&quot;,&quot;type&quot;:&quot;dimen&quot;,&quot;name&quot;:&quot;layout height&quot;},{&quot;value&quot;:&quot;match parent&quot;,&quot;type&quot;:&quot;dimen&quot;,&quot;name&quot;:&quot;layout width&quot;}],&quot;widget&quot;:&quot;Ratio Image View&quot;}],&quot;properties&quot;:[{&quot;value&quot;:&quot;vertical&quot;,&quot;type&quot;:&quot;string&quot;,&quot;name&quot;:&quot;orientation&quot;},{&quot;value&quot;:&quot;@android:colorholo green dark&quot;,&quot;type&quot;:&quot;color&quot;,&quot;name&quot;:&quot;background&quot;},{&quot;value&quot;:&quot;wrap content&quot;,&quot;type&quot;:&quot;dimen&quot;,&quot;name&quot;:&quot;layout height&quot;},{&quot;value&quot;:&quot;match parent&quot;,&quot;type&quot;:&quot;dimen&quot;,&quot;name&quot;:&quot;layout width&quot;}],&quot;widget&quot;:&quot;Frame Layout&quot;}" />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 8.0." />
       <item value="You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins." />
@@ -54,12 +55,11 @@
       <item value="java.lang.NullPointerException: Attempt to invoke virtual method 'boolean android.content.Intent.migrateExtraStreamToClipData()' on a null object reference" />
       <item value="Mock version of the WebView. Only non override public methods from the real WebView have been added in there. Methods that take an unknown class as parameter or as return object, have been removed for now. TODO: generate automatically." />
       <item value="Apns Xml Processor" />
-      <item value="Support it by clicking the button on the upper right of this page." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="209" />
-        <entry key="ENGLISH" value="211" />
+        <entry key="CHINESE" value="210" />
+        <entry key="ENGLISH" value="212" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
