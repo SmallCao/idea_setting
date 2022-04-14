@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="The key must be an application-specific resource id." />
       <item value="Failed to delete some children. This might happen because a process has files open or has its working directory set in the target directory." />
       <item value="recycle" />
       <item value="[HOTFIX][Report]Bind hotfix monitor service fail!" />
@@ -54,12 +55,11 @@
       <item value="smooth Scroll" />
       <item value="equals Ignore Case" />
       <item value="on Geolocation Permissions Show Prompt" />
-      <item value="java.lang.NullPointerException: Attempt to invoke virtual method 'boolean android.content.Intent.migrateExtraStreamToClipData()' on a null object reference" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="212" />
-        <entry key="ENGLISH" value="214" />
+        <entry key="CHINESE" value="213" />
+        <entry key="ENGLISH" value="215" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
