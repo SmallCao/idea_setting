@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="entries" />
+      <item value="Entity" />
       <item value="recycle" />
       <item value="transition Name" />
       <item value="accessibility Class Name" />
@@ -53,13 +55,11 @@
       <item value="If set the adapter will call requery() on the cursor whenever a content change notification is delivered. Implies {@link FLAG_REGISTER_CONTENT_OBSERVER}. @deprecated This option is discouraged, as it results in Cursor queries being performed on the application's UI thread and thus can cause poor responsiveness or even Application Not Responding errors. As an alternative, use {@link android.app.LoaderManager} with a {@link android.content.CursorLoader}." />
       <item value="FLAG AUTO REQUERY" />
       <item value="This field should be made private, so it is hidden from the SDK." />
-      <item value="m Data Valid" />
-      <item value="@param newCursor The new cursor to be used. @return Returns the previously set Cursor, or null if there wasa not one. If the given new Cursor is the same instance is the previously set Cursor, null is also returned." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="221" />
-        <entry key="ENGLISH" value="222" />
+        <entry key="CHINESE" value="223" />
+        <entry key="ENGLISH" value="224" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
