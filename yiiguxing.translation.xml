@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="make sure" />
       <item value="Ringtones" />
       <item value="商户ID" />
       <item value="The key must be an application-specific resource id." />
@@ -54,17 +55,16 @@
       <item value="Swap in a new Cursor, returning the old Cursor. Unlike {@link changeCursor(Cursor)}, the returned old Cursor is &lt;em&gt;not&lt;em&gt; closed. @param newCursor The new cursor to be used. @return Returns the previously set Cursor, or null if there wasa not one. If the given new Cursor is the same instance is the previously set Cursor, null is also returned." />
       <item value="cursor Present" />
       <item value="get Is Incoming" />
-      <item value="smooth Scroll" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="215" />
-        <entry key="ENGLISH" value="216" />
+        <entry key="CHINESE" value="216" />
+        <entry key="ENGLISH" value="217" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649810923638" />
+    <option name="lastTrimTime" value="1650244090461" />
   </component>
 </application>
