@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Suggestion: use a compatible library with a minSdk of at most 21," />
+      <item value="as the library might be using APIs not available in 21" />
       <item value="Fling" />
       <item value="Fast Fling Threshold" />
       <item value="COMPONENT" />
@@ -53,13 +55,11 @@
       <item value="Dex Shifting View" />
       <item value="use internal to parse the json as a tree to create View" />
       <item value="apply generic function in View" />
-      <item value="possible property name that we handle" />
-      <item value="This could be null if we bind but the caller doesn't init the BindableData" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="227" />
-        <entry key="ENGLISH" value="228" />
+        <entry key="CHINESE" value="229" />
+        <entry key="ENGLISH" value="230" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
