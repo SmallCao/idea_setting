@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Directly connect AppCompatDelegate to SavedStateRegistry" />
       <item value="upper Bound" />
       <item value="lower Bound" />
       <item value="Actually compare the messages using cursor pair" />
@@ -54,12 +55,11 @@
       <item value="keep properties obj as a tag" />
       <item value="Create the View Object. If not full package is available try to create a view from android.widget" />
       <item value="! [remote rejected] main (pre-receive hook declined)" />
-      <item value="actual" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="244" />
-        <entry key="ENGLISH" value="245" />
+        <entry key="CHINESE" value="245" />
+        <entry key="ENGLISH" value="246" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
