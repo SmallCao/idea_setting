@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Fling" />
+      <item value="Fast Fling Threshold" />
       <item value="COMPONENT" />
       <item value="feature" />
       <item value="entries" />
@@ -53,13 +55,11 @@
       <item value="apply generic function in View" />
       <item value="possible property name that we handle" />
       <item value="This could be null if we bind but the caller doesn't init the BindableData" />
-      <item value="Making this volatile because on the unit tests, setInstance is called from a unit test thread, and then it's read on the UI thread." />
-      <item value="If set the adapter will call requery() on the cursor whenever a content change notification is delivered. Implies {@link FLAG_REGISTER_CONTENT_OBSERVER}. @deprecated This option is discouraged, as it results in Cursor queries being performed on the application's UI thread and thus can cause poor responsiveness or even Application Not Responding errors. As an alternative, use {@link android.app.LoaderManager} with a {@link android.content.CursorLoader}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="225" />
-        <entry key="ENGLISH" value="226" />
+        <entry key="CHINESE" value="227" />
+        <entry key="ENGLISH" value="228" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
