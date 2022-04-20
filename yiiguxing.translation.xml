@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="color Accent" />
+      <item value="color Primary Dark" />
+      <item value="color Primary" />
+      <item value="status Bar Color" />
+      <item value="window Translucent Status" />
       <item value="Directly connect AppCompatDelegate to SavedStateRegistry" />
       <item value="upper Bound" />
       <item value="lower Bound" />
@@ -50,16 +55,11 @@
       <item value="add Layout Parameters in just created view and set as the contentView of the activity" />
       <item value="Helper function to load file from assets" />
       <item value="only buildscript {} and other plugins {} script blocks are allowed before plugins {} blocks, no other statements are allowed" />
-      <item value="Set main property to name of Groovy script class." />
-      <item value="Set classpath for running the Groovy script." />
-      <item value="keep properties obj as a tag" />
-      <item value="Create the View Object. If not full package is available try to create a view from android.widget" />
-      <item value="! [remote rejected] main (pre-receive hook declined)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="245" />
-        <entry key="ENGLISH" value="246" />
+        <entry key="CHINESE" value="250" />
+        <entry key="ENGLISH" value="251" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
