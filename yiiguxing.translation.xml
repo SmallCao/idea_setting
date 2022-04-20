@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="feature list" />
+      <item value="feature" />
       <item value="Compare messages based on timestamp and uri @param db local database wrapper @param cursors cursor pair holding references to local and remote messages @param smsToAdd newly found sms messages to add @param mmsToAdd newly found mms messages to add @param messagesToDelete messages not found needing deletion @param maxMessagesToScan max messages to scan for changes @param maxMessagesToUpdate max messages to return for updates @param cache cache for conversation id thread id recipient set mapping @return timestamp of the oldest message seen during the sync scan" />
       <item value="color Accent" />
       <item value="color Primary Dark" />
@@ -32,7 +34,6 @@
       <item value="Fling" />
       <item value="Fast Fling Threshold" />
       <item value="COMPONENT" />
-      <item value="feature" />
       <item value="entries" />
       <item value="Entity" />
       <item value="recycle" />
@@ -54,12 +55,11 @@
       <item value="Groovy" />
       <item value="Holder class that keep UI Component from the Dynamic View" />
       <item value="add Layout Parameters in just created view and set as the contentView of the activity" />
-      <item value="Helper function to load file from assets" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="251" />
-        <entry key="ENGLISH" value="252" />
+        <entry key="CHINESE" value="253" />
+        <entry key="ENGLISH" value="254" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
