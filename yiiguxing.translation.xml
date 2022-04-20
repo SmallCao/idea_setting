@@ -5,6 +5,21 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="No more message on both sides - scan complete" />
+      <item value="Set of remote messages matched with the timestamp of a local message" />
+      <item value="Sync Messages Action" />
+      <item value="PduPersister stores the addresses using ISO_8859_1 Let's load it using that encoding and convert it back to its original See PduPersister.persistAddress" />
+      <item value="Part of an MMS message" />
+      <item value="PduPersister stores the subject using ISO_8859_1 Let's load it using that encoding and convert it back to its original See PduPersister.persist and PduPersister.toIsoString (Refer to bug b11162476)" />
+      <item value="m Subject" />
+      <item value="Create a draft mms message for a particular conversation" />
+      <item value="draft" />
+      <item value="Phone Utils Pre LMR 1" />
+      <item value="m Sub Id" />
+      <item value="has Sms Date Sent Column" />
+      <item value="True if the version of Android that we're running on is at least L MR1 (API level 22)." />
+      <item value="Making this volatile because on the unit tests, setInstance is called from a unit test thread, and then it's read on the UI thread." />
+      <item value="volatile" />
       <item value="Lower bound is end of previous sync" />
       <item value="feature list" />
       <item value="feature" />
@@ -40,26 +55,11 @@
       <item value="recycle" />
       <item value="transition Name" />
       <item value="accessibility Class Name" />
-      <item value="e: Supertypes of the following classes cannot be resolved. Please make sure you have the required dependencies in the classpath: class com.youth.banner.adapter.BannerAdapter, unresolved supertypes: androidx.recyclerview.widget.RecyclerView.Adapter Adding -Xextended-compiler-checks argument might provide additional information." />
-      <item value="this is a memory leak" />
-      <item value="make sure" />
-      <item value="Ringtones" />
-      <item value="商户ID" />
-      <item value="The key must be an application-specific resource id." />
-      <item value="Failed to delete some children. This might happen because a process has files open or has its working directory set in the target directory." />
-      <item value="[HOTFIX][Report]Bind hotfix monitor service fail!" />
-      <item value="{&quot;views&quot;:[{&quot;views&quot;:[],&quot;properties&quot;:[{&quot;value&quot;:&quot;\u 8 fd 9\u 662 f\u 4 e 00\u 4 e 2 a\u 6 d 4 b\u 8 bd 5 view&quot;,&quot;type&quot;:&quot;string&quot;,&quot;name&quot;:&quot;text&quot;},{&quot;value&quot;:&quot;bottom&quot;,&quot;type&quot;:&quot;string&quot;,&quot;name&quot;:&quot;layout gravity&quot;},{&quot;value&quot;:&quot;center vertical&quot;,&quot;type&quot;:&quot;string&quot;,&quot;name&quot;:&quot;gravity&quot;},{&quot;value&quot;:&quot;33666666&quot;,&quot;type&quot;:&quot;color&quot;,&quot;name&quot;:&quot;background&quot;},{&quot;value&quot;:&quot;30 dp&quot;,&quot;type&quot;:&quot;dimen&quot;,&quot;name&quot;:&quot;layout height&quot;},{&quot;value&quot;:&quot;match parent&quot;,&quot;type&quot;:&quot;dimen&quot;,&quot;name&quot;:&quot;layout width&quot;},{&quot;value&quot;:&quot;tv test&quot;,&quot;type&quot;:&quot;ref&quot;,&quot;name&quot;:&quot;id&quot;}],&quot;widget&quot;:&quot;Text View&quot;},{&quot;views&quot;:[],&quot;properties&quot;:[{&quot;value&quot;:&quot;@drawabletest&quot;,&quot;type&quot;:&quot;ref&quot;,&quot;name&quot;:&quot;src&quot;},{&quot;value&quot;:&quot;fit Center&quot;,&quot;type&quot;:&quot;string&quot;,&quot;name&quot;:&quot;scale Type&quot;},{&quot;value&quot;:&quot;200 dp&quot;,&quot;type&quot;:&quot;dimen&quot;,&quot;name&quot;:&quot;layout height&quot;},{&quot;value&quot;:&quot;match parent&quot;,&quot;type&quot;:&quot;dimen&quot;,&quot;name&quot;:&quot;layout width&quot;}],&quot;widget&quot;:&quot;Ratio Image View&quot;}],&quot;properties&quot;:[{&quot;value&quot;:&quot;vertical&quot;,&quot;type&quot;:&quot;string&quot;,&quot;name&quot;:&quot;orientation&quot;},{&quot;value&quot;:&quot;@android:colorholo green dark&quot;,&quot;type&quot;:&quot;color&quot;,&quot;name&quot;:&quot;background&quot;},{&quot;value&quot;:&quot;wrap content&quot;,&quot;type&quot;:&quot;dimen&quot;,&quot;name&quot;:&quot;layout height&quot;},{&quot;value&quot;:&quot;match parent&quot;,&quot;type&quot;:&quot;dimen&quot;,&quot;name&quot;:&quot;layout width&quot;}],&quot;widget&quot;:&quot;Frame Layout&quot;}" />
-      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 8.0." />
-      <item value="You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins." />
-      <item value="Maintainer" />
-      <item value="guest" />
-      <item value="Groovy" />
-      <item value="Holder class that keep UI Component from the Dynamic View" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="259" />
-        <entry key="ENGLISH" value="260" />
+        <entry key="CHINESE" value="275" />
+        <entry key="ENGLISH" value="276" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
