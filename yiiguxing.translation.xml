@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="hsm should not control this permission: 4" />
       <item value="No more message on both sides - scan complete" />
       <item value="Set of remote messages matched with the timestamp of a local message" />
       <item value="Sync Messages Action" />
@@ -54,12 +55,11 @@
       <item value="Entity" />
       <item value="recycle" />
       <item value="transition Name" />
-      <item value="accessibility Class Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="275" />
-        <entry key="ENGLISH" value="276" />
+        <entry key="CHINESE" value="276" />
+        <entry key="ENGLISH" value="277" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
