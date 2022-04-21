@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Available columns" />
       <item value="Device parameters do not meet requirements." />
       <item value="Int? Required not default?" />
       <item value="THREAD ID" />
@@ -54,12 +55,11 @@
       <item value="If sync is already running this will do nothing - but at end of each sync action there is a check for recent messages that should catch new changes." />
       <item value="Check if sync allowed (can be too soon after last or one is already running)" />
       <item value="Manifest merger failed : uses-sdk:minSdkVersion 21 cannot be smaller than version 22 declared in library [:libxml] D:\WorkProject\as\ZYTDemo\libxml\build\intermediates\merged_manifest\debug\AndroidManifest.xml as the library might be using APIs not available in 21 Suggestion: use a compatible library with a minSdk of at most 21, or increase this project's minSdk version to at least 22, or use tools:overrideLibrary=&quot;com.zyt.libxml&quot; to force usage (may lead to runtime failures)" />
-      <item value="Suggestion: use a compatible library with a minSdk of at most 21," />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="284" />
-        <entry key="ENGLISH" value="285" />
+        <entry key="CHINESE" value="285" />
+        <entry key="ENGLISH" value="286" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
