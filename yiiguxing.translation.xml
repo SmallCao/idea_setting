@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Ensure that you are not passing 'true' to the attachToRoot parameter of LayoutInflater.inflate(..., boolean attachToRoot)" />
+      <item value="ViewHolder views must not be attached when created." />
       <item value="Before ICS, there is no &quot;date_sent&quot; so use copy of &quot;date&quot; value" />
       <item value="Available columns" />
       <item value="Device parameters do not meet requirements." />
@@ -53,13 +55,11 @@
       <item value="Schedule" />
       <item value="Queue an action and monitor for processing by the ActionService via the factory helper" />
       <item value="immediate Sync" />
-      <item value="If sync is already running this will do nothing - but at end of each sync action there is a check for recent messages that should catch new changes." />
-      <item value="Check if sync allowed (can be too soon after last or one is already running)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="286" />
-        <entry key="ENGLISH" value="287" />
+        <entry key="CHINESE" value="288" />
+        <entry key="ENGLISH" value="289" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
