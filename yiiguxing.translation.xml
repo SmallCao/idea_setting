@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Primary users default SMS app - don't monitor telephony (most changes from this app)" />
+      <item value="Secondary users default SMS app - need to actively monitor telephony and notify" />
+      <item value="Not default SMS app - need to actively monitor telephony but not notify" />
       <item value="migrate File To Cache" />
       <item value="Ensure that you are not passing 'true' to the attachToRoot parameter of LayoutInflater.inflate(..., boolean attachToRoot)" />
       <item value="ViewHolder views must not be attached when created." />
@@ -52,14 +55,11 @@
       <item value="Store all the SMS messages" />
       <item value="Class holding a pair of cursors - one for local db and one for telephony provider - allowing synchronous stepping through messages as part of sync." />
       <item value="Handle response returned by BackgroundWorker" />
-      <item value="Schedule an action to run after specified delay using alarm manager to send pendingintent" />
-      <item value="Schedule" />
-      <item value="Queue an action and monitor for processing by the ActionService via the factory helper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="289" />
-        <entry key="ENGLISH" value="290" />
+        <entry key="CHINESE" value="292" />
+        <entry key="ENGLISH" value="293" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
