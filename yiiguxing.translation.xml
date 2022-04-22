@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Registered with the highest possible priority (max_int) --&gt;" />
+      <item value="If sync is already running this will do nothing - but at end of each sync action there is a check for recent messages that should catch new changes." />
       <item value="Secondary users default SMS app - need to actively monitor telephony and notify" />
       <item value="Primary users default SMS app - don't monitor telephony (most changes from this app)" />
       <item value="Not default SMS app - need to actively monitor telephony but not notify" />
@@ -53,13 +55,11 @@
       <item value="Compare messages based on timestamp and uri" />
       <item value="Perform local database updates and schedule follow on sync actions" />
       <item value="Store all the SMS messages" />
-      <item value="Class holding a pair of cursors - one for local db and one for telephony provider - allowing synchronous stepping through messages as part of sync." />
-      <item value="Handle response returned by BackgroundWorker" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="293" />
-        <entry key="ENGLISH" value="294" />
+        <entry key="CHINESE" value="295" />
+        <entry key="ENGLISH" value="296" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
