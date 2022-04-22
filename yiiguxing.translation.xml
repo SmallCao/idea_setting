@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Implement the onChange(boolean, Uri) method to take advantage of the new Uri argument." />
       <item value="Registered with the highest possible priority (max_int) --&gt;" />
       <item value="If sync is already running this will do nothing - but at end of each sync action there is a check for recent messages that should catch new changes." />
       <item value="Secondary users default SMS app - need to actively monitor telephony and notify" />
@@ -54,12 +55,11 @@
       <item value="Actually compare the messages using cursor pair" />
       <item value="Compare messages based on timestamp and uri" />
       <item value="Perform local database updates and schedule follow on sync actions" />
-      <item value="Store all the SMS messages" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="295" />
-        <entry key="ENGLISH" value="296" />
+        <entry key="CHINESE" value="296" />
+        <entry key="ENGLISH" value="297" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
