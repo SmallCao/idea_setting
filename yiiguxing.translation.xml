@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="immediate Sync" />
+      <item value="update Conversation Name And Avatar In Transaction" />
       <item value="App Link Url Error" />
       <item value="document Launch Mode" />
       <item value="Sms Deliver Receiver" />
@@ -53,13 +55,11 @@
       <item value="Lower bound is end of previous sync" />
       <item value="feature list" />
       <item value="feature" />
-      <item value="Compare messages based on timestamp and uri @param db local database wrapper @param cursors cursor pair holding references to local and remote messages @param smsToAdd newly found sms messages to add @param mmsToAdd newly found mms messages to add @param messagesToDelete messages not found needing deletion @param maxMessagesToScan max messages to scan for changes @param maxMessagesToUpdate max messages to return for updates @param cache cache for conversation id thread id recipient set mapping @return timestamp of the oldest message seen during the sync scan" />
-      <item value="color Accent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="308" />
-        <entry key="ENGLISH" value="309" />
+        <entry key="CHINESE" value="310" />
+        <entry key="ENGLISH" value="311" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
