@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Keep track of updated conversation for later updating the conversation snippet, etc." />
+      <item value="A forced resync of all messages should still keep the archived states. The database upgrade code notifies sync manager of this. We need to honor the original customization to this conversation if created." />
       <item value="immediate Sync" />
       <item value="update Conversation Name And Avatar In Transaction" />
       <item value="App Link Url Error" />
@@ -53,13 +55,11 @@
       <item value="Making this volatile because on the unit tests, setInstance is called from a unit test thread, and then it's read on the UI thread." />
       <item value="volatile" />
       <item value="Lower bound is end of previous sync" />
-      <item value="feature list" />
-      <item value="feature" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="310" />
-        <entry key="ENGLISH" value="311" />
+        <entry key="CHINESE" value="312" />
+        <entry key="ENGLISH" value="313" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
