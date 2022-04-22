@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="450" />
     <histories>
       <item value="Sms Deliver Receiver" />
+      <item value="exported" />
+      <item value="install Location" />
       <item value="Widget that displays the conversation list --&gt; &lt;receiver" />
       <item value="Launches a conversation (ensures correct app name shown in recents) --&gt;" />
       <item value="cost" />
@@ -53,13 +55,11 @@
       <item value="color Accent" />
       <item value="color Primary Dark" />
       <item value="color Primary" />
-      <item value="status Bar Color" />
-      <item value="window Translucent Status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="302" />
-        <entry key="ENGLISH" value="303" />
+        <entry key="CHINESE" value="305" />
+        <entry key="ENGLISH" value="306" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
