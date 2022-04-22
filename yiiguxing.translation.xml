@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Cannot perform this operation because the transaction has already been marked successful. The only thing you can do now is call endTransaction()." />
       <item value="Keep track of updated conversation for later updating the conversation snippet, etc." />
       <item value="A forced resync of all messages should still keep the archived states. The database upgrade code notifies sync manager of this. We need to honor the original customization to this conversation if created." />
       <item value="immediate Sync" />
@@ -54,12 +55,11 @@
       <item value="True if the version of Android that we're running on is at least L MR1 (API level 22)." />
       <item value="Making this volatile because on the unit tests, setInstance is called from a unit test thread, and then it's read on the UI thread." />
       <item value="volatile" />
-      <item value="Lower bound is end of previous sync" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="312" />
-        <entry key="ENGLISH" value="313" />
+        <entry key="CHINESE" value="313" />
+        <entry key="ENGLISH" value="314" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
