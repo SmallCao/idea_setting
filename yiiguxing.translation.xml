@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="cost" />
+      <item value="deliver Sms Intent" />
       <item value="View class com.zyt.libxml.template.ITextView is an AppCompat widget that can only be used with a Theme.AppCompat theme (or descendant)." />
       <item value="Implement the onChange(boolean, Uri) method to take advantage of the new Uri argument." />
       <item value="Registered with the highest possible priority (max_int) --&gt;" />
@@ -53,13 +55,11 @@
       <item value="Directly connect AppCompatDelegate to SavedStateRegistry" />
       <item value="upper Bound" />
       <item value="lower Bound" />
-      <item value="Actually compare the messages using cursor pair" />
-      <item value="Compare messages based on timestamp and uri" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="297" />
-        <entry key="ENGLISH" value="298" />
+        <entry key="CHINESE" value="299" />
+        <entry key="ENGLISH" value="300" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
