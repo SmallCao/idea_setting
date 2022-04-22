@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="View class com.zyt.libxml.template.ITextView is an AppCompat widget that can only be used with a Theme.AppCompat theme (or descendant)." />
       <item value="Implement the onChange(boolean, Uri) method to take advantage of the new Uri argument." />
       <item value="Registered with the highest possible priority (max_int) --&gt;" />
       <item value="If sync is already running this will do nothing - but at end of each sync action there is a check for recent messages that should catch new changes." />
@@ -54,12 +55,11 @@
       <item value="lower Bound" />
       <item value="Actually compare the messages using cursor pair" />
       <item value="Compare messages based on timestamp and uri" />
-      <item value="Perform local database updates and schedule follow on sync actions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="296" />
-        <entry key="ENGLISH" value="297" />
+        <entry key="CHINESE" value="297" />
+        <entry key="ENGLISH" value="298" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
