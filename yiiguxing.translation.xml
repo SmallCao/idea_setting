@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Alarm time in SystemClock.elapsedRealtime() (time since boot, including sleep), which will wake up the device when it goes off." />
       <item value="descendant" />
       <item value="screen Orientation" />
       <item value="DOMAIN" />
@@ -54,12 +55,11 @@
       <item value="draft" />
       <item value="Phone Utils Pre LMR 1" />
       <item value="m Sub Id" />
-      <item value="has Sms Date Sent Column" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="316" />
-        <entry key="ENGLISH" value="317" />
+        <entry key="CHINESE" value="317" />
+        <entry key="ENGLISH" value="318" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
