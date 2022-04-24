@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="screen Orientation" />
       <item value="DOMAIN" />
       <item value="Cannot perform this operation because the transaction has already been marked successful. The only thing you can do now is call endTransaction()." />
       <item value="Keep track of updated conversation for later updating the conversation snippet, etc." />
@@ -54,12 +55,11 @@
       <item value="m Sub Id" />
       <item value="has Sms Date Sent Column" />
       <item value="True if the version of Android that we're running on is at least L MR1 (API level 22)." />
-      <item value="Making this volatile because on the unit tests, setInstance is called from a unit test thread, and then it's read on the UI thread." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="314" />
-        <entry key="ENGLISH" value="315" />
+        <entry key="CHINESE" value="315" />
+        <entry key="ENGLISH" value="316" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
