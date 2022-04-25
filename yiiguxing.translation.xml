@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="&gt; No signature of method: build_c16fbylkhqot3uls0q9e69ac2.android() is applicable for argument types: (build_c16fbylkhqot3uls0q9e69ac2_run_closure1) values: [build_c16fbylkhqot3uls0q9e69ac2_run_closure1@3d633fbb]" />
       <item value="Calling startActivity() from outside of an Activity context requires the FLAG_ACTIVITY_NEW_TASK flag. Is this really what you want?" />
       <item value="You must not call setTag() on a view Glide is targeting" />
       <item value="Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by build file" />
@@ -54,12 +55,11 @@
       <item value="No more message on both sides - scan complete" />
       <item value="Set of remote messages matched with the timestamp of a local message" />
       <item value="Sync Messages Action" />
-      <item value="PduPersister stores the addresses using ISO_8859_1 Let's load it using that encoding and convert it back to its original See PduPersister.persistAddress" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="325" />
-        <entry key="ENGLISH" value="326" />
+        <entry key="CHINESE" value="326" />
+        <entry key="ENGLISH" value="327" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
