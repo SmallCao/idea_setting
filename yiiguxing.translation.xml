@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="You must not call setTag() on a view Glide is targeting" />
       <item value="Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by build file" />
       <item value="dependency Resolution Management" />
       <item value="only buildscript {} and other plugins {} script blocks are allowed before plugins {} blocks, no other statements are allowed" />
@@ -54,12 +55,11 @@
       <item value="Sync Messages Action" />
       <item value="PduPersister stores the addresses using ISO_8859_1 Let's load it using that encoding and convert it back to its original See PduPersister.persistAddress" />
       <item value="Part of an MMS message" />
-      <item value="PduPersister stores the subject using ISO_8859_1 Let's load it using that encoding and convert it back to its original See PduPersister.persist and PduPersister.toIsoString (Refer to bug b11162476)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="322" />
-        <entry key="ENGLISH" value="323" />
+        <entry key="CHINESE" value="323" />
+        <entry key="ENGLISH" value="324" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
