@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="is applicable for argument types" />
+      <item value="Apparent variable 'project' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:" />
+      <item value="No signature of method: build_ek0cnby7fg2n6csabl58q9rup.android() is applicable for argument types:" />
       <item value="&gt; No signature of method: build_c16fbylkhqot3uls0q9e69ac2.android() is applicable for argument types: (build_c16fbylkhqot3uls0q9e69ac2_run_closure1) values: [build_c16fbylkhqot3uls0q9e69ac2_run_closure1@3d633fbb]" />
       <item value="Calling startActivity() from outside of an Activity context requires the FLAG_ACTIVITY_NEW_TASK flag. Is this really what you want?" />
       <item value="You must not call setTag() on a view Glide is targeting" />
@@ -52,14 +55,11 @@
       <item value="last Index Of" />
       <item value="失败" />
       <item value="hsm should not control this permission: 4" />
-      <item value="No more message on both sides - scan complete" />
-      <item value="Set of remote messages matched with the timestamp of a local message" />
-      <item value="Sync Messages Action" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="326" />
-        <entry key="ENGLISH" value="327" />
+        <entry key="CHINESE" value="330" />
+        <entry key="ENGLISH" value="331" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
