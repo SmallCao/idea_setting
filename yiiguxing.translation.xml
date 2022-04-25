@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by build file" />
+      <item value="dependency Resolution Management" />
+      <item value="only buildscript {} and other plugins {} script blocks are allowed before plugins {} blocks, no other statements are allowed" />
+      <item value="Top-level build file where you can add configuration options common to all sub-projectsmodules." />
       <item value="View class com.zyt.libxml.template.IImageView is an AppCompat widget that can only be used with a Theme.AppCompat theme (or descendant)." />
       <item value="Alarm time in SystemClock.elapsedRealtime() (time since boot, including sleep), which will wake up the device when it goes off." />
       <item value="descendant" />
@@ -51,15 +55,11 @@
       <item value="PduPersister stores the addresses using ISO_8859_1 Let's load it using that encoding and convert it back to its original See PduPersister.persistAddress" />
       <item value="Part of an MMS message" />
       <item value="PduPersister stores the subject using ISO_8859_1 Let's load it using that encoding and convert it back to its original See PduPersister.persist and PduPersister.toIsoString (Refer to bug b11162476)" />
-      <item value="m Subject" />
-      <item value="Create a draft mms message for a particular conversation" />
-      <item value="draft" />
-      <item value="Phone Utils Pre LMR 1" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="318" />
-        <entry key="ENGLISH" value="319" />
+        <entry key="CHINESE" value="322" />
+        <entry key="ENGLISH" value="323" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
