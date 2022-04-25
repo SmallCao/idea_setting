@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Calling startActivity() from outside of an Activity context requires the FLAG_ACTIVITY_NEW_TASK flag. Is this really what you want?" />
       <item value="You must not call setTag() on a view Glide is targeting" />
       <item value="Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by build file" />
       <item value="dependency Resolution Management" />
@@ -54,12 +55,11 @@
       <item value="Set of remote messages matched with the timestamp of a local message" />
       <item value="Sync Messages Action" />
       <item value="PduPersister stores the addresses using ISO_8859_1 Let's load it using that encoding and convert it back to its original See PduPersister.persistAddress" />
-      <item value="Part of an MMS message" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="323" />
-        <entry key="ENGLISH" value="324" />
+        <entry key="CHINESE" value="325" />
+        <entry key="ENGLISH" value="326" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
