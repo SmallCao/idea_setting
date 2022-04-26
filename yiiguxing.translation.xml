@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Rejected Execution Exception" />
       <item value="is applicable for argument types" />
       <item value="Apparent variable 'project' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:" />
       <item value="No signature of method: build_ek0cnby7fg2n6csabl58q9rup.android() is applicable for argument types:" />
@@ -54,12 +55,11 @@
       <item value="with Appended Id" />
       <item value="last Index Of" />
       <item value="失败" />
-      <item value="hsm should not control this permission: 4" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="330" />
-        <entry key="ENGLISH" value="331" />
+        <entry key="CHINESE" value="331" />
+        <entry key="ENGLISH" value="332" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
