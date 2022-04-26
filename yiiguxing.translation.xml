@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="View class com.zyt.libxml.template.ITextView is an AppCompat widget that can only be used with a Theme.AppCompat theme (or descendant)." />
+      <item value="View class com.zyt.libxml.template.IImageView is an AppCompat widget that can only be used with a Theme.AppCompat theme (or descendant)." />
       <item value="同步 异步" />
       <item value="margin state not match" />
       <item value="Unrecognized URI" />
@@ -19,7 +21,6 @@
       <item value="dependency Resolution Management" />
       <item value="only buildscript {} and other plugins {} script blocks are allowed before plugins {} blocks, no other statements are allowed" />
       <item value="Top-level build file where you can add configuration options common to all sub-projectsmodules." />
-      <item value="View class com.zyt.libxml.template.IImageView is an AppCompat widget that can only be used with a Theme.AppCompat theme (or descendant)." />
       <item value="Alarm time in SystemClock.elapsedRealtime() (time since boot, including sleep), which will wake up the device when it goes off." />
       <item value="descendant" />
       <item value="screen Orientation" />
@@ -38,7 +39,6 @@
       <item value="Launches a conversation (ensures correct app name shown in recents) --&gt;" />
       <item value="cost" />
       <item value="deliver Sms Intent" />
-      <item value="View class com.zyt.libxml.template.ITextView is an AppCompat widget that can only be used with a Theme.AppCompat theme (or descendant)." />
       <item value="Implement the onChange(boolean, Uri) method to take advantage of the new Uri argument." />
       <item value="Registered with the highest possible priority (max_int) --&gt;" />
       <item value="If sync is already running this will do nothing - but at end of each sync action there is a check for recent messages that should catch new changes." />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="337" />
-        <entry key="ENGLISH" value="337" />
+        <entry key="CHINESE" value="338" />
+        <entry key="ENGLISH" value="339" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
