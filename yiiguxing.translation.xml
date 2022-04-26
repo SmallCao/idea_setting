@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="margin state not match" />
       <item value="Unrecognized URI" />
       <item value="Rejected Execution Exception" />
       <item value="is applicable for argument types" />
@@ -54,12 +55,11 @@
       <item value="date sent" />
       <item value="Trigger an sms sync in case we missed and messages before registering this observer or becoming the SMS provider." />
       <item value="with Appended Id" />
-      <item value="last Index Of" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="332" />
-        <entry key="ENGLISH" value="333" />
+        <entry key="CHINESE" value="336" />
+        <entry key="ENGLISH" value="337" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
