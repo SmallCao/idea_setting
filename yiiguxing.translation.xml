@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Unrecognized URI" />
       <item value="Rejected Execution Exception" />
       <item value="is applicable for argument types" />
       <item value="Apparent variable 'project' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:" />
@@ -54,12 +55,11 @@
       <item value="Trigger an sms sync in case we missed and messages before registering this observer or becoming the SMS provider." />
       <item value="with Appended Id" />
       <item value="last Index Of" />
-      <item value="失败" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="331" />
-        <entry key="ENGLISH" value="332" />
+        <entry key="CHINESE" value="332" />
+        <entry key="ENGLISH" value="333" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
