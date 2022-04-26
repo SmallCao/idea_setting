@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="if variable is annotated with @XmlDynamicViewId" />
+      <item value="get ViewHolder class and make reference for evert @link(DynamicViewId) to the actual view if target contains HashMap&lt;String, Integer&gt; will replaced with the idsMap" />
+      <item value="get the view Id from the Hashmap and make the connection to the real View" />
       <item value="View class com.zyt.libxml.template.ITextView is an AppCompat widget that can only be used with a Theme.AppCompat theme (or descendant)." />
       <item value="View class com.zyt.libxml.template.IImageView is an AppCompat widget that can only be used with a Theme.AppCompat theme (or descendant)." />
       <item value="同步 异步" />
@@ -52,14 +55,11 @@
       <item value="Available columns" />
       <item value="Device parameters do not meet requirements." />
       <item value="Int? Required not default?" />
-      <item value="THREAD ID" />
-      <item value="date sent" />
-      <item value="Trigger an sms sync in case we missed and messages before registering this observer or becoming the SMS provider." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="338" />
-        <entry key="ENGLISH" value="339" />
+        <entry key="CHINESE" value="341" />
+        <entry key="ENGLISH" value="342" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
