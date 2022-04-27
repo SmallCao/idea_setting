@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="visuable" />
       <item value="null Column Hack" />
       <item value="草稿" />
       <item value="If the artifact you are trying to retrieve can be found in the repository but without metadata in 'Maven POM' format, you need to adjust the 'metadataSources { ... }' of the repository declaration." />
@@ -54,12 +55,11 @@
       <item value="migrate File To Cache" />
       <item value="Ensure that you are not passing 'true' to the attachToRoot parameter of LayoutInflater.inflate(..., boolean attachToRoot)" />
       <item value="ViewHolder views must not be attached when created." />
-      <item value="Before ICS, there is no &quot;date_sent&quot; so use copy of &quot;date&quot; value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="344" />
-        <entry key="ENGLISH" value="345" />
+        <entry key="CHINESE" value="345" />
+        <entry key="ENGLISH" value="346" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
