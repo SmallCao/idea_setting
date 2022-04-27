@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="hardware Accelerated" />
       <item value="on Stop Tracking Touch" />
       <item value="generify" />
       <item value="visuable" />
@@ -54,7 +55,6 @@
       <item value="Secondary users default SMS app - need to actively monitor telephony and notify" />
       <item value="Primary users default SMS app - don't monitor telephony (most changes from this app)" />
       <item value="Not default SMS app - need to actively monitor telephony but not notify" />
-      <item value="migrate File To Cache" />
     </histories>
     <option name="languageScores">
       <map>
