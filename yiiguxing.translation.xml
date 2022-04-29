@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="canvas" />
       <item value="联系方式" />
       <item value="座机" />
       <item value="电话" />
@@ -54,17 +55,16 @@
       <item value="deliver Sms Intent" />
       <item value="Implement the onChange(boolean, Uri) method to take advantage of the new Uri argument." />
       <item value="Registered with the highest possible priority (max_int) --&gt;" />
-      <item value="If sync is already running this will do nothing - but at end of each sync action there is a check for recent messages that should catch new changes." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="350" />
-        <entry key="ENGLISH" value="350" />
+        <entry key="ENGLISH" value="351" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650762123278" />
+    <option name="lastTrimTime" value="1651199204858" />
   </component>
 </application>
