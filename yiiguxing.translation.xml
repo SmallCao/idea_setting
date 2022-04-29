@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="false false" />
+      <item value="acc not ready" />
+      <item value="on Receive" />
       <item value="name Value Pairs" />
       <item value="canvas" />
       <item value="联系方式" />
@@ -52,14 +55,12 @@
       <item value="install Location" />
       <item value="Widget that displays the conversation list --&gt; &lt;receiver" />
       <item value="Launches a conversation (ensures correct app name shown in recents) --&gt;" />
-      <item value="cost" />
-      <item value="deliver Sms Intent" />
-      <item value="Implement the onChange(boolean, Uri) method to take advantage of the new Uri argument." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="351" />
-        <entry key="ENGLISH" value="352" />
+        <entry key="CHINESE" value="354" />
+        <entry key="ENGLISH" value="354" />
+        <entry key="GERMAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
