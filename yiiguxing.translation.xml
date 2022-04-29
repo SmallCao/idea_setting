@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="name Value Pairs" />
       <item value="canvas" />
       <item value="联系方式" />
       <item value="座机" />
@@ -54,12 +55,11 @@
       <item value="cost" />
       <item value="deliver Sms Intent" />
       <item value="Implement the onChange(boolean, Uri) method to take advantage of the new Uri argument." />
-      <item value="Registered with the highest possible priority (max_int) --&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="350" />
-        <entry key="ENGLISH" value="351" />
+        <entry key="CHINESE" value="351" />
+        <entry key="ENGLISH" value="352" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
